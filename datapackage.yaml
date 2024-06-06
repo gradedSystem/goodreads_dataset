@@ -33,7 +33,7 @@ resources:
         - name: text_reviews_count
           type: number
         - name: publication_date
-          type: string
+          type: date
           format: "%m/%d/%Y"
         - name: publisher
           type: string
