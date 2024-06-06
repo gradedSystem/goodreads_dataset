@@ -1,5 +1,5 @@
 datapackage:
   title: Goodreads dataset
   resources:
-  - name: goodreads_dataset
+  - name: goodreads-dataset
     path: books.csv
