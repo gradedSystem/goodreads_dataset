@@ -1,0 +1,87 @@
+{
+  "description": "This dataset was created to provide a clean and comprehensive collection of book data.",
+  "image": "https://storage.googleapis.com/kaggle-datasets-images/231310/493835/1941da46b0d2f5edd981ba32ee32184e/dataset-cover.jpg?t=2019-06-14-09-47-46",
+  "keywords": [
+    "Books",
+    "Goodreads",
+    "Book Rating",
+    "Book Reviews"
+  ],
+  "last_updated": "2024-06-06",
+  "licenses": [
+    {
+      "name": "Goodreads API",
+      "path": "https://www.goodreads.com/api",
+      "title": "Goodreads API Terms and Conditions"
+    }
+  ],
+  "name": "goodreads",
+  "resources": [
+    {
+      "name": "goodreads",
+      "path": "books.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "bookID",
+            "type": "number"
+          },
+          {
+            "name": "title",
+            "type": "string"
+          },
+          {
+            "name": "authors",
+            "type": "string"
+          },
+          {
+            "name": "average_rating",
+            "type": "number"
+          },
+          {
+            "name": "isbn",
+            "type": "number"
+          },
+          {
+            "name": "isbn13",
+            "type": "number"
+          },
+          {
+            "name": "language_code",
+            "type": "string"
+          },
+          {
+            "name": "num_pages",
+            "type": "number"
+          },
+          {
+            "name": "ratings_count",
+            "type": "number"
+          },
+          {
+            "name": "text_reviews_count",
+            "type": "number"
+          },
+          {
+            "format": "%m/%d/%Y",
+            "name": "publication_date",
+            "type": "string"
+          },
+          {
+            "name": "publisher",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "Goodreads API",
+      "path": "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "title": "World Bank and OECD"
+    }
+  ],
+  "title": "Goodreads Dataset",
+  "version": "2024"
+}
