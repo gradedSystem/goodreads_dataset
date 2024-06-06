@@ -1,5 +1,5 @@
 {
-  "name" : "goodreads-dataset",
+  "name" : "goodreads_dataset",
   "title" : "Basic Title",
   "licenses": [{
     "name": "ODC-PDDL-1.0",
