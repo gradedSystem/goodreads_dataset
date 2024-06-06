@@ -1,12 +1,5 @@
 ## Goodreads Books Dataset
 
----
-datapackage:
-  title: Top 1000 universities in the world
-  resources:
-  - name: universities-ranking
-    path: data.csv
----
 
 The Goodreads Books dataset contains information about various books listed on Goodreads, a popular book recommendation platform. The dataset includes several key attributes for each book:
 
