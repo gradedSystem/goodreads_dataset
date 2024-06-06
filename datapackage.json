@@ -1,4 +1,5 @@
 {
+  "name": "goodreads_dataset",
   "description": "This dataset was created to provide a clean and comprehensive collection of book data.",
   "image": "https://storage.googleapis.com/kaggle-datasets-images/231310/493835/1941da46b0d2f5edd981ba32ee32184e/dataset-cover.jpg?t=2019-06-14-09-47-46",
   "keywords": [
@@ -15,7 +16,6 @@
       "title": "Goodreads API Terms and Conditions"
     }
   ],
-  "name": "books",
   "resources": [
     {
       "name": "books",
