@@ -19,7 +19,7 @@
   "resources": [
     {
       "name": "books",
-      "path": "books.csv",
+      "path": "data/books.csv",
       "schema": {
         "fields": [
           {
