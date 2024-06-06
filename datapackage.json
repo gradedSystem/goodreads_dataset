@@ -15,10 +15,10 @@
       "title": "Goodreads API Terms and Conditions"
     }
   ],
-  "name": "goodreads_dataset",
+  "name": "books",
   "resources": [
     {
-      "name": "goodreads_dataset",
+      "name": "books",
       "path": "books.csv",
       "schema": {
         "fields": [
