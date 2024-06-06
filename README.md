@@ -1,9 +1,9 @@
 ---
 datapackage:
-  title: Top 1000 universities in the world
+  title: Goodreads dataset
   resources:
-  - name: universities-ranking
-    path: data.csv
+  - name: goodreads_dataset
+    path: data/books.csv
 ---
 
 ## Goodreads Books Dataset
