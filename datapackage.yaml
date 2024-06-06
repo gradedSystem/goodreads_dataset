@@ -37,15 +37,3 @@ resources:
           format: "%m/%d/%Y"
         - name: publisher
           type: string
-description: This dataset was created to provide a clean and comprehensive collection of book data.
-keywords:
-  - Books
-  - Goodreads
-  - Book Rating
-  - Book Reviews
-last_updated: 2024-06-06
-image: https://storage.googleapis.com/kaggle-datasets-images/231310/493835/1941da46b0d2f5edd981ba32ee32184e/dataset-cover.jpg?t=2019-06-14-09-47-46
-sources:
-  - name: Goodreads API
-    path: http://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-    title: World Bank and OECD
