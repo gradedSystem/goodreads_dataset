@@ -1,5 +1,13 @@
 ## Goodreads Books Dataset
 
+---
+datapackage:
+  title: Top 1000 universities in the world
+  resources:
+  - name: universities-ranking
+    path: data.csv
+---
+
 The Goodreads Books dataset contains information about various books listed on Goodreads, a popular book recommendation platform. The dataset includes several key attributes for each book:
 
 - **title**: The name under which the book was published.
@@ -13,3 +21,5 @@ The Goodreads Books dataset contains information about various books listed on G
 - **text_reviews_count**: The total number of written text reviews the book has received.
 
 The main results derived from this dataset include the RMSE (Root Mean Squared Error), R squared, and model accuracy. These metrics help evaluate the performance of models built using this dataset.
+
+
