@@ -7,4 +7,5 @@ datapackage:
   resources:
   - name: goodreads_dataset
     path: data/books.csv
+  source: [prediction](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
 ---
